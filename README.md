@@ -2,6 +2,7 @@
 <h3 align="center">Pursuing BTech Artificial Intelligence and Data Science @USAR || Proficient in C, C++ and Python || A.I and Machine learning enthusiast || Front-end Developer |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashnanda&label=Profile%20views&color=0e75b6&style=flat" alt="kalashnanda" /> </p>
+<img src="https://tenor.com/view/hacker-python-coding-glitch-gif-24209207 " width = 400px/>
 
 - 🔭 I’m currently working on **Frontend Projects**
 
