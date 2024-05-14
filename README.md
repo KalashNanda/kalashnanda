@@ -2,7 +2,7 @@
 <h3 align="center">Pursuing BTech Artificial Intelligence and Data Science @USAR || Proficient in C, C++ and Python || A.I and Machine learning enthusiast || Front-end Developer |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashnanda&label=Profile%20views&color=0e75b6&style=flat" alt="kalashnanda" /> </p>
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifs.eco.br%2Fwp-content%2Fuploads%2F2022%2F06%2Fgifs-de-hacker-10.gif&tbnid=0KqhY960XV3zIM&vet=12ahUKEwjHirn13M-BAxX_j2MGHYPJBEkQMygJegQIARBL..i&imgrefurl=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-hacker%2F&docid=MyFlvsWOqdI7wM&w=800&h=600&itg=1&q=hacker%20gif&hl=en&authuser=0&ved=2ahUKEwjHirn13M-BAxX_j2MGHYPJBEkQMygJegQIARBL#imgrc=px9BNbkc6yu1HM&imgdii=pwVyd-JklaCjtM" width = 400px />
+<img src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fgifs.eco.br%2Fwp-content%2Fuploads%2F2022%2F06%2Fgifs-de-hacker-10.gif&tbnid=0KqhY960XV3zIM&vet=12ahUKEwjHirn13M-BAxX_j2MGHYPJBEkQMygJegQIARBL..i&imgrefurl=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-hacker%2F&docid=MyFlvsWOqdI7wM&w=800&h=600&itg=1&q=hacker%20gif&hl=en&authuser=0&ved=2ahUKEwjHirn13M-BAxX_j2MGHYPJBEkQMygJegQIARBL#imgrc=px9BNbkc6yu1HM&imgdii=pwVyd-JklaCjtM](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcode-masters-absolutely-brilliant-logo-purple-animation-gif-17439281&psig=AOvVaw0n1sbRtzwwXv8nnqpzTKZp&ust=1715733466199000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDC27Hzi4YDFQAAAAAdAAAAABAE)" width = 400px />
 
 - 🔭 I’m currently working on **Frontend Projects**
 
